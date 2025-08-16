@@ -1,3 +1,3 @@
 # demo-tizen
 sample application
--Kushagra Patel
+-Kushagra Patel (SDE)
