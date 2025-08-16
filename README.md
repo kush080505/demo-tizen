@@ -1,0 +1,2 @@
+# demo-tizen
+sample application
